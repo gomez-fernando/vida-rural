@@ -112,7 +112,7 @@
               <img src="assets/img/patrocinador5.jpg" alt="patrocinador" />
             </a>
           </div>
-          <p>Metabolismo</p>
+          <p>Metabolismo Tv</p>
         </div>
       </div>
     </div>
