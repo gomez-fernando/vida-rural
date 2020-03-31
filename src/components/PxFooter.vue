@@ -24,7 +24,7 @@
         <div class="contenedor-galeria">
           <div class="imagen-galeria">
             <div class="foto">
-              <img src="assets/img/walking.jpg" alt="foto del evento" />
+              <img src="assets/img/walking.jpg" alt="patrocinador" />
             </div>
             <div class="info">
               <p>Senderismo</p>
@@ -35,7 +35,7 @@
           <!-- imagen -->
           <div class="imagen-galeria">
             <div class="foto">
-              <img src="assets/img/tienda.jpg" alt="foto del evento" />
+              <img src="assets/img/tienda.jpg" alt="patrocinador" />
             </div>
             <div class="info">
               <p>Acampada</p>
@@ -46,7 +46,7 @@
           <!-- imagen -->
           <div class="imagen-galeria">
             <div class="foto">
-              <img src="assets/img/actividad1.jpg" alt="foto del evento" />
+              <img src="assets/img/actividad1.jpg" alt="patrocinador" />
             </div>
             <div class="info">
               <p>Concierto de Zaz</p>
@@ -57,7 +57,7 @@
           <!-- imagen -->
           <div class="imagen-galeria">
             <div class="foto">
-              <img src="assets/img/espantapajaros.jpg" alt="foto del evento" />
+              <img src="assets/img/espantapajaros.jpg" alt="patrocinador" />
             </div>
             <div class="info">
               <p>Confecciona tu espantapájaros</p>
@@ -70,7 +70,59 @@
       </div>
     </div>
     <!-- .contenedor -->
-    <p class="copyright">Developed with &#x1F49A; by Fernando Gómez</p>
+
+    <div class="patocinadores">
+      <h3>Patrocinadores</h3>
+      <div class="patrocinadores-links">
+        <div>
+          <div class="foto">
+            <a href="https://elgranodemostaza.com/" target="_blank">
+              <img src="assets/img/patrocinador1.jpg" alt="patrocinador" />
+            </a>
+          </div>
+          <p>Librería El Grano de Mostaza</p>
+        </div>
+        <div>
+          <div class="foto">
+            <a href="http://masgras.com/" target="_blank">
+              <img src="assets/img/patrocinador2.jpg" alt="patrocinador" />
+            </a>
+          </div>
+          <p>Masía MAs Gras</p>
+        </div>
+        <div>
+          <div class="foto">
+            <a href="https://www.colibris-lemouvement.org/" target="_blank">
+              <img src="assets/img/patrocinador3.png" alt="patrocinador" />
+            </a>
+          </div>
+          <p>Mouvement Colibris</p>
+        </div>
+        <div>
+          <div class="foto">
+            <a href="https://www.youtube.com/channel/UCXV8HmDQt2akopxAQQt3oeg" target="_blank">
+              <img src="assets/img/patrocinador4.jpg" alt="patrocinador" />
+            </a>
+          </div>
+          <p>Caja de Pandora</p>
+        </div>
+        <div>
+          <div class="foto">
+            <a href="https://www.youtube.com/results?search_query=metabolismo+tv" target="_blank">
+              <img src="assets/img/patrocinador5.jpg" alt="patrocinador" />
+            </a>
+          </div>
+          <p>Metabolismo</p>
+        </div>
+      </div>
+    </div>
+    <p class="copyright">
+      <a
+        href="https://amazingweb.website/"
+        target="_blank"
+        rel="noopener noreferrer"
+      >Developed with &#x1F49A; by Fernando Gómez</a>
+    </p>
   </footer>
 </template>
 
@@ -136,10 +188,45 @@ export default {
   margin: 0;
 }
 .copyright {
+  display: flex;
+  justify-content: center;
   background-color: var(--oscuro);
   margin: 3rem 0 0 0;
   text-align: center;
   padding: var(--padding);
+}
+.copyright a {
+  color: var(--claro);
+  text-decoration: none;
+  transition: 0.3s ease all;
+}
+.copyright a:hover {
+  color: yellow;
+  margin-left: 10px;
+  margin-right: 10px;
+  transform: scale(1.1);
+}
+
+#contact-button-2 {
+  cursor: pointer;
+}
+.footer .patrocinadores-links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.footer .patrocinadores-links .foto {
+  min-width: 100px;
+  max-width: 150px;
+  margin: 10px;
+  align-items: baseline;
+}
+
+.footer .patrocinadores-links p {
+  min-width: 100px;
+  max-width: 150px;
+  margin: 10px;
+  text-align: center;
 }
 
 /* Back to top button */
@@ -154,9 +241,6 @@ export default {
   right: 15px;
   bottom: 15px;
   transition: background 5s;
-}
-#contact-button-2 {
-  cursor: pointer;
 }
 /* .visible {
   display: block !important;

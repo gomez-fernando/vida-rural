@@ -22,7 +22,7 @@
           <h3 class="titulo">Proyecto WARKA</h3>
           <p>Cada gota cuenta. Warka Water es una torre de 10 metros de altura, fabricada a mano a partir de materiales naturales, que tiene la capacidad de recoger hasta 100 litros de agua potable desde el aire en las zonas rurales de los países en desarrollo. Diseñado por Architecture and Vision, el concepto ha sido implementado en los últimos 2 años a través de varios prototipos experimentales construidos.</p>
           <p>El agua es la fuente de toda vida. Su calidad y disponibilidad es fundamental para todos nosotros, pero el agua potable está disminuyendo continuamente. La contaminación, la creciente deforestación, el cambio climático y la desertificación vulneran aún más la disponibilidad de fuentes de agua.</p>
-          <p>Los árboles hacen algo por nosotros, apoyan la vida. Crean recursos y refugios. En la cultura etíope pastoral, el árbol Warka es una institución, su sombra se utiliza para reuniones públicas tradicionales, la educación escolar y otras actividades similares.</p>
+          <p>En la cultura etíope pastoral, el árbol Warka es una institución, su sombra se utiliza para reuniones públicas tradicionales.</p>
 
           <a
             href="https://www.plataformaarquitectura.cl/cl/02-351457/proyecto-warka-torres-de-bambu-que-recogen-agua-potable-desde-el-aire"
@@ -38,8 +38,8 @@
         <div class="card">
           <h3 class="titulo">Pierre Rabhi</h3>
           <p>«La civilización industrial, con la productividad, la eficacia y la velocidad, nos ha alejado de los eternos ritmos del cosmos y de las estaciones, a los que la civilización agraria nos mantenía unidos.»</p>
-          <p>Pierre Rabhi, uno de los activistas ecológicos más reconocidos en todo el mundo por su integridad y clarividencia nos abre su mirada y sus palabras acerca de las causas de la crisis, sus efectos y las posibles soluciones.</p>
-          <p>Nació en el desierto, y pasó del silencio, de los gestos imbricados con la tierra, con el agua y con el viento, del cosmos ordenado por la tradición al caos y la densa oscuridad de los suburbios de París, la gran urbe alienante cuyo sistema adora al dios dinero.</p>
+          <p>Pierre Rabhi, uno de los activistas ecológicos más reconocidos en todo el mundo por su integridad y clarividencia nos abre su mirada y sus palabras acerca de las causas de la crisis, sus efectos y las posibles soluciones. Teniendo siempre en cuenta la razón de ser del comercio y el intercambio entre las naciones.</p>
+          <p>Nació en el desierto, y pasó del silencio, de los gestos imbricados con la tierra, con el agua y con el viento, del cosmos ordenado por la tradición al caos y la densa oscuridad de los suburbios de París, la gran urbe alienante cuyo sistema adora al dios dinero, dejando de lado la conecxión del ser humano con sus raíces.</p>
 
           <a
             href="https://ecologiadelalma.es/entrevista-pierre-rabhi/"
@@ -55,7 +55,7 @@
         <div class="card">
           <h3 class="titulo">Josep Pàmies</h3>
           <p>A la vera del río Segre, en terrenos cultivados por la misma familia de payeses desde hace cuatro generaciones, lleva cociéndose desde hace ocho años una "dulce revolución". El artífice se llama Josep Pàmies, sabio de la tierra, horticultor y activista, cabecilla de una insurrección que corre por las macetas, los jardines y los balcones y que tiene como poderoso símbolo a la estevia: la planta prohibida.</p>
-          <p>"Lo llamo la dulce revolución porque ya hemos sido testigos de muchas revoluciones violentas y hemos visto cómo acaban: con un paso atrás. Esta es una llamada a una revolución pacífica, como la que impulsó en su día Gandhi, de resistencia al sistema, de reafirmarte en lo que estás haciendo, hasta que los poderes se baten en retirada y te dejan en paz".</p>
+          <p>"Lo llamo la dulce revolución porque ya hemos sido testigos de muchas revoluciones violentas y hemos visto cómo acaban: con un paso atrás. Esta es una llamada a una revolución pacífica, como la que impulsó en su día Gandhi, de resistencia al sistema, de reafirmarte en lo que estás haciendo, hasta que los poderes se baten en retirada y te dejan en paz". Nos explica Pàmies con serenidad.</p>
 
           <a
             href="https://www.elmundo.es/blogs/elmundo/ecoheroes/2013/12/20/la-dulce-revolucion-de-josep-pamies.html"
