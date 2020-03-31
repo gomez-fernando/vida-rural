@@ -19,16 +19,16 @@
       <div class="w-100 mb-4"></div>
       <div class="w-100 mb-4"></div>
       <div>
+        <p class="border-bottom border-top text-center">Masía Vida Plena</p>
         <p class="border-bottom border-top">
-          <img class="contact-icon" src="assets/img/location.png" alt />Masia Vida Plena, 08262
-          Callús,
-          <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Barcelona
+          <img class="contact-icon" src="assets/img/location.png" alt />08262, Callús, Barcelona
         </p>
       </div>
       <div class="w-100 mb-4"></div>
       <div>
         <p class="border-bottom border-top">
-          <img class="contact-icon" src="assets/img/phone.png" alt />+34 653 891 672
+          <img class="contact-icon" src="assets/img/phone.png" alt />+34 653 891
+          672
         </p>
       </div>
       <div class="w-100 mb-4"></div>

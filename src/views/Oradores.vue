@@ -1,32 +1,23 @@
 <template>
   <div>
-    <px-evento />
-    <px-nosotros />
+    <px-oradores />
     <px-contacto />
     <px-newsletter />
   </div>
 </template>
 
 <script>
-import PxEvento from "@/components/PxEvento";
-import PxNosotros from "@/components/PxNosotros";
+import PxOradores from "@/components/PxOradores";
 import PxContacto from "@/components/PxContacto";
 import PxNewsletter from "@/components/PxNewsletter";
 
 export default {
-  name: "Home",
+  name: "Oradores",
 
   components: {
-    PxEvento,
-    PxNosotros,
+    PxOradores,
     PxContacto,
     PxNewsletter
   }
-  // props: {
-  //   links: {
-  //     type: Array,
-  //     default: () => []
-  //   }
-  // }
 };
 </script>

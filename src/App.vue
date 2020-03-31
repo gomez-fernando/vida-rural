@@ -1,8 +1,8 @@
 <template>
   <main id="app">
-    <px-header />
+    <px-header :links="links" />
     <router-view />
-    <px-footer />
+    <px-footer :links="links" />
   </main>
 </template>
 
@@ -15,6 +15,29 @@ export default {
   components: {
     PxHeader,
     PxFooter
+  },
+
+  data() {
+    return {
+      links: [
+        {
+          title: "El evento",
+          to: { name: "home" }
+        },
+        {
+          title: "Actividades",
+          to: { name: "actividades" }
+        },
+        {
+          title: "Oradores ",
+          to: { name: "oradores" }
+        }
+        // {
+        //   title: "Contacto",
+        //   to: { name: "contacto" }
+        // }
+      ]
+    };
   }
 };
 </script>
@@ -108,4 +131,5 @@ p {
   background-color: var(--primario);
   border-radius: 30px;
 }
+
 </style>

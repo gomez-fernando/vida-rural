@@ -1,7 +1,7 @@
 <template>
   <div>
     <section class="nosotros contenedor">
-      <div class="imagen mt-5">
+      <div class="imagen">
         <!-- <img src="assets/img/girasol.jpg" alt="conferencia 2019" class="imagen"> -->
         <div
           id="carousel"
@@ -38,13 +38,9 @@
       <div class="contenido-nosotros">
         <h1>El evento</h1>
         <p>
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi,
-          rerum labore. Tempore, nostrum cum! Laborum error quae, ducimus unde
-          repellat reiciendis qui cumque! Sed unde voluptatem esse, labore
-          mollitia quia! Tempore, nostrum cum! Laborum error quae, ducimus unde
-          repellat reiciendis qui cumque! Sed unde voluptatem esse, labore
-          mollitia quia!
+          Devolver a las áreas rurales el lugar que deben ocupar en la distribución de la población catalana es un objetivo de la RuralORG, en este sentido, la población rural se erige como un imperativo social y político. Fijar la población a sus territorios y atraer jóvenes que quieran establecerse y desarrollar un proyecto de vida en las áreas rurales es prioritario, pero también lo es dotarlos de herramientas y experiencias que los preparen para este importante reto.
         </p>
+        <p>Del 10 al 17 de abril de 2021, una semana dedicada a las familias y al saber vivir con las ventajas que sólo la vida rural nos ofrece.</p>
       </div>
     </section>
     <hr class="divider" />
@@ -107,6 +103,11 @@
     display: grid;
     /* gap: 1rem; */
     /* padding: 0 1rem; */
+  }
+}
+@media (min-width: 992px){
+  .imagen{
+    margin-top: 87px;
   }
 }
 .card {

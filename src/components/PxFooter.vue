@@ -1,25 +1,28 @@
 <template>
   <footer class="footer">
     <div class="contenedor">
+      <!-- Back to top button -->
+      <a href="#" id="back-to-top">
+        <i class="fa fa-chevron-up"></i>
+      </a>
       <div class="widget">
         <h3>Nosotros</h3>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis quia odio voluptatem dolorum sequi ut
-          numquam inventore exercitationem praesentium tempore dolor ipsam.
+          Somos RuralORG. Una sociación cultural con sede en Callús y con vocación global.
+          <br />Nos complace invitarte al 3º Encuentro Vida Rural que se celebrará del 10 al 17 de abril de 2021.
         </p>
       </div>
       <div class="widget navegacion">
         <h3>Navegación</h3>
         <nav>
-          <a href="index.html">La conferencia</a>
-          <a href="actividades.html">Actividades</a>
-          <a href="oradores.html">Contacto</a>
+          <router-link v-for="l in links" :key="l.title" :to="l.to" class>{{ l.title }}</router-link>
+          <a id="contact-button-2" class="router-link-active">Contacto</a>
         </nav>
       </div>
       <div class="widget">
         <h3>Galería</h3>
         <div class="contenedor-galeria">
-          <div class="imagen">
+          <div class="imagen-galeria">
             <div class="foto">
               <img src="assets/img/walking.jpg" alt="foto del evento" />
             </div>
@@ -30,9 +33,9 @@
             </div>
           </div>
           <!-- imagen -->
-          <div class="imagen">
+          <div class="imagen-galeria">
             <div class="foto">
-              <img src="assets/img/tribu.jpg" alt="foto del evento" />
+              <img src="assets/img/tienda.jpg" alt="foto del evento" />
             </div>
             <div class="info">
               <p>Acampada</p>
@@ -41,7 +44,7 @@
             </div>
           </div>
           <!-- imagen -->
-          <div class="imagen">
+          <div class="imagen-galeria">
             <div class="foto">
               <img src="assets/img/juegos.jpg" alt="foto del evento" />
             </div>
@@ -52,7 +55,7 @@
             </div>
           </div>
           <!-- imagen -->
-          <div class="imagen">
+          <div class="imagen-galeria">
             <div class="foto">
               <img src="assets/img/espantapajaros.jpg" alt="foto del evento" />
             </div>
@@ -70,6 +73,19 @@
     <p class="copyright">Developed with &#x1F49A; by Fernando Gómez</p>
   </footer>
 </template>
+
+<script>
+export default {
+  name: "PxHeader",
+
+  props: {
+    links: {
+      type: Array,
+      default: () => []
+    }
+  }
+};
+</script>
 
 <style>
 /* FOOTER  */
@@ -111,7 +127,7 @@
   margin: 5px auto;
   background-color: var(--claro);
 }
-.footer .imagen {
+.footer .imagen-galeria {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: 1rem;
@@ -125,4 +141,27 @@
   text-align: center;
   padding: var(--padding);
 }
+
+/* Back to top button */
+#back-to-top {
+  position: fixed;
+  display: none;
+  background: rgba(0, 0, 0, 0.2);
+  color: var(--primario);
+  padding: 6px 12px 9px 12px;
+  font-size: 16px;
+  border-radius: 2px;
+  right: 15px;
+  bottom: 15px;
+  transition: background 5s;
+}
+#contact-button-2 {
+  cursor: pointer;
+}
+/* .visible {
+  display: block !important;
+}
+.not-visible {
+  display: none !important;
+} */
 </style>
