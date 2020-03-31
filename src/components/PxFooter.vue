@@ -46,12 +46,12 @@
           <!-- imagen -->
           <div class="imagen-galeria">
             <div class="foto">
-              <img src="assets/img/juegos.jpg" alt="foto del evento" />
+              <img src="assets/img/actividad1.jpg" alt="foto del evento" />
             </div>
             <div class="info">
-              <p>Juegos de competición</p>
+              <p>Concierto de Zaz</p>
               <hr />
-              <p>Al aire libre</p>
+              <p>Cierre del encuentro</p>
             </div>
           </div>
           <!-- imagen -->
