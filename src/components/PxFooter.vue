@@ -88,7 +88,7 @@
               <img src="assets/img/patrocinador2.jpg" alt="patrocinador" />
             </a>
           </div>
-          <p>Masía MAs Gras</p>
+          <p>Masía Mas Gras</p>
         </div>
         <div>
           <div class="foto">
