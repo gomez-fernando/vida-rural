@@ -118,7 +118,7 @@
     </div>
     <p class="copyright">
       <a
-        href="https://amazingweb.website/"
+        href="https://gomez-fernando.github.io/portfolio/"
         target="_blank"
         rel="noopener noreferrer"
       >Developed with &#x1F49A; by Fernando Gómez</a>
