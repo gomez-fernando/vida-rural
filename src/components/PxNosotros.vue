@@ -71,7 +71,7 @@
           <h3 class="titulo">Callús</h3>
           <p>Nuestro sitio de referencia es Callús. Un hermoso pueblo en las montañas de Montserrat.</p>
           <p>
-            Disfruta de un recorrido mágico que nos llevará más adentro de vida cotidiana de esta región.
+            Disfruta de un recorrido mágico que nos llevará más adentro de la vida cotidiana de esta región.
             <br />Nos espera un recorrido inolvidable entre sus calles, sus bares y la atención esmerada de sus vecinos.
           </p>
           <nav class="menu">

@@ -34,7 +34,7 @@
         <div class="card">
           <h3 class="titulo">Calle 13</h3>
           <p>
-            Después de habernos visitado durante la priemera edición de nuestro
+            Después de habernos visitado durante la primera edición de nuestro
             encuentro. Este año vuelven Calle 13 para deleitarnos con su música.
           </p>
           <p>

@@ -117,132 +117,143 @@
       </div>
     </div>
     <p class="copyright">
-      <a
-        href="https://gomez-fernando.github.io/portfolio/"
-        target="_blank"
-        rel="noopener noreferrer"
-      >Developed with &#x1F49A; by Fernando Gómez</a>
+      <a href="https://gomez-fernando.github.io/portfolio/" target="_blank" rel="noopener noreferrer">Developed with
+        &#x1F49A; by Fernando Gómez &copy; 2020</a>
     </p>
   </footer>
 </template>
 
 <script>
-export default {
-  name: "PxHeader",
+  export default {
+    name: "PxHeader",
 
-  props: {
-    links: {
-      type: Array,
-      default: () => []
+    props: {
+      links: {
+        type: Array,
+        default: () => []
+      }
     }
-  }
-};
+  };
 </script>
 
 <style>
-/* FOOTER  */
-.footer {
-  background-color: var(--primario);
-  margin-top: var(--padding2);
-  padding-top: var(--padding2);
-  color: var(--claro);
-}
-@media (min-width: 768px) {
-  .footer .contenedor {
-    display: grid;
-    grid-template-columns: 30% 20% 2fr;
-    column-gap: 2rem;
+  /* FOOTER  */
+  .footer {
+    background-color: var(--primario);
+    margin-top: var(--padding2);
+    padding-top: var(--padding2);
+    color: var(--claro);
   }
-}
-.footer .widget h3 {
-  margin-bottom: 2rem;
-  text-align: center;
-}
-.footer .navegacion a {
-  display: block;
-  color: var(--claro);
-  font-size: 1.4rem;
-  margin-bottom: 1rem;
-  text-decoration: none;
-  text-align: center;
-}
-.footer .contenedor-galeria {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 1rem;
-}
-.footer .contenedor-galeria p {
-  text-align: center;
-  line-height: 1.4rem;
-}
-.footer .contenedor-galeria hr {
-  margin: 5px auto;
-  background-color: var(--claro);
-}
-.footer .imagen-galeria {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 1rem;
-}
-.footer .imagen p {
-  margin: 0;
-}
-.copyright {
-  display: flex;
-  justify-content: center;
-  background-color: var(--oscuro);
-  margin: 3rem 0 0 0;
-  text-align: center;
-  padding: var(--padding);
-}
-.copyright a {
-  color: var(--claro);
-  text-decoration: none;
-  transition: 0.3s ease all;
-}
-.copyright a:hover {
-  color: yellow;
-  margin-left: 10px;
-  margin-right: 10px;
-  transform: scale(1.1);
-}
 
-#contact-button-2 {
-  cursor: pointer;
-}
-.footer .patrocinadores-links {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-evenly;
-}
-.footer .patrocinadores-links .foto {
-  min-width: 100px;
-  max-width: 150px;
-  margin: 10px;
-  align-items: baseline;
-}
+  @media (min-width: 768px) {
+    .footer .contenedor {
+      display: grid;
+      grid-template-columns: 30% 20% 2fr;
+      column-gap: 2rem;
+    }
+  }
 
-.footer .patrocinadores-links p {
-  min-width: 100px;
-  max-width: 150px;
-  margin: 10px;
-  text-align: center;
-}
+  .footer .widget h3 {
+    margin-bottom: 2rem;
+    text-align: center;
+  }
 
-/* Back to top button */
-#back-to-top {
-  position: fixed;
-  display: none;
-  background: rgba(0, 0, 0, 0.2);
-  color: var(--primario);
-  padding: 6px 12px 9px 12px;
-  font-size: 16px;
-  border-radius: 2px;
-  right: 15px;
-  bottom: 15px;
-  transition: background 5s;
-}
-/* .visible {
+  .footer .navegacion a {
+    display: block;
+    color: var(--claro);
+    font-size: 1.4rem;
+    margin-bottom: 1rem;
+    text-decoration: none;
+    text-align: center;
+  }
+
+  .footer .contenedor-galeria {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem;
+  }
+
+  .footer .contenedor-galeria p {
+    text-align: center;
+    line-height: 1.4rem;
+  }
+
+  .footer .contenedor-galeria hr {
+    margin: 5px auto;
+    background-color: var(--claro);
+  }
+
+  .footer .imagen-galeria {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+  }
+
+  .footer .imagen p {
+    margin: 0;
+  }
+
+  .copyright {
+    display: flex;
+    justify-content: center;
+
+    margin: 3rem 0 0 0;
+    text-align: center;
+    padding: 1rem;
+  }
+
+  .copyright a {
+    text-decoration: none;
+    transition: 0.3s ease all;
+  }
+
+  .copyright a:hover {
+    text-decoration: none;
+    color: yellow;
+    margin-left: 10px;
+    margin-right: 10px;
+    transform: scale(1.1);
+  }
+
+  #contact-button-2 {
+    cursor: pointer;
+  }
+
+  .footer .patrocinadores-links {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+
+  .footer .patrocinadores-links .foto {
+    min-width: 100px;
+    max-width: 150px;
+    margin: 10px;
+    align-items: baseline;
+  }
+
+  .footer .patrocinadores-links p {
+    min-width: 100px;
+    max-width: 150px;
+    margin: 10px;
+    text-align: center;
+  }
+
+  /* Back to top button */
+  #back-to-top {
+    position: fixed;
+    display: none;
+    background: rgba(0, 0, 0, 0.2);
+    color: var(--primario);
+    padding: 6px 12px 9px 12px;
+    font-size: 16px;
+    border-radius: 2px;
+    right: 15px;
+    bottom: 15px;
+    transition: background 5s;
+  }
+
+  /* .visible {
   display: block !important;
 }
 .not-visible {
