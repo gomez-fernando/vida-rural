@@ -207,6 +207,10 @@
     transition: 0.3s ease all;
   }
 
+    .copyright a:visited {
+    color: white;
+  }
+
   .copyright a:hover {
     text-decoration: none;
     color: yellow;
