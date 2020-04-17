@@ -104,7 +104,7 @@
               <img src="assets/img/patrocinador4.jpg" alt="patrocinador" />
             </a>
           </div>
-          <p>Caja de Pandora</p>
+          <p>Domoterra</p>
         </div>
         <div>
           <div class="foto">
@@ -121,10 +121,7 @@
         href="https://gomez-fernando.github.io/portfolio/"
         target="_blank"
         rel="noopener noreferrer"
-      >
-        Developed with
-        &#x1F49A; by Fernando Gómez &copy; 2020
-      </a>
+      >Developed with &#x1F49A; by Fernando Gómez &copy; 2020</a>
     </p>
   </footer>
 </template>
@@ -202,7 +199,7 @@ export default {
 .copyright {
   display: flex;
   justify-content: center;
-background-color: var(--oscuro);
+  background-color: var(--oscuro);
   margin: 3rem 0 0 0;
   text-align: center;
   padding: 1rem;
