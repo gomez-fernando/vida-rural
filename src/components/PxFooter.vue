@@ -8,14 +8,18 @@
       <div class="widget">
         <h3>Nosotros</h3>
         <p>
-          Somos RuralORG. Una sociación cultural con sede en Callús y con vocación global.
-          <br />Nos complace invitarte al 3º Encuentro Vida Rural que se celebrará del 10 al 17 de abril de 2021.
+          Somos RuralORG. Una sociación cultural con sede en Callús y con
+          vocación global.
+          <br />Nos complace invitarte al 3º Encuentro Vida Rural que se
+          celebrará del 10 al 17 de abril de 2021.
         </p>
       </div>
       <div class="widget navegacion">
         <h3>Navegación</h3>
         <nav>
-          <router-link v-for="l in links" :key="l.title" :to="l.to" class>{{ l.title }}</router-link>
+          <router-link v-for="l in links" :key="l.title" :to="l.to" class>{{
+            l.title
+          }}</router-link>
           <a id="contact-button-2" class="router-link-active">Contacto</a>
         </nav>
       </div>
@@ -100,7 +104,10 @@
         </div>
         <div>
           <div class="foto">
-            <a href="https://www.youtube.com/channel/UCXV8HmDQt2akopxAQQt3oeg" target="_blank">
+            <a
+              href="https://www.youtube.com/channel/UCXV8HmDQt2akopxAQQt3oeg"
+              target="_blank"
+            >
               <img src="assets/img/patrocinador4.jpg" alt="patrocinador" />
             </a>
           </div>
@@ -108,7 +115,10 @@
         </div>
         <div>
           <div class="foto">
-            <a href="https://www.youtube.com/results?search_query=metabolismo+tv" target="_blank">
+            <a
+              href="https://www.youtube.com/results?search_query=metabolismo+tv"
+              target="_blank"
+            >
               <img src="assets/img/patrocinador5.jpg" alt="patrocinador" />
             </a>
           </div>
@@ -121,7 +131,8 @@
         href="https://gomez-fernando.github.io/portfolio/"
         target="_blank"
         rel="noopener noreferrer"
-      >Developed with &#x1F49A; by Fernando Gómez &copy; 2020</a>
+        >Developed with &#x1F49A; by Fernando Gómez &copy; 2020</a
+      >
     </p>
   </footer>
 </template>

@@ -38,9 +38,18 @@
       <div class="contenido-nosotros">
         <h1>El evento</h1>
         <p>
-          Devolver a las áreas rurales el lugar que deben ocupar en la distribución de la población catalana es un objetivo de la RuralORG, en este sentido, la población rural se erige como un imperativo social y político. Fijar la población a sus territorios y atraer jóvenes que quieran establecerse y desarrollar un proyecto de vida en las áreas rurales es prioritario, pero también lo es dotarlos de herramientas y experiencias que los preparen para este importante reto.
+          Devolver a las áreas rurales el lugar que deben ocupar en la
+          distribución de la población catalana es un objetivo de la RuralORG,
+          en este sentido, la población rural se erige como un imperativo social
+          y político. Fijar la población a sus territorios y atraer jóvenes que
+          quieran establecerse y desarrollar un proyecto de vida en las áreas
+          rurales es prioritario, pero también lo es dotarlos de herramientas y
+          experiencias que los preparen para este importante reto.
         </p>
-        <p>Del 10 al 17 de abril de 2021, una semana dedicada a las familias y al saber vivir con las ventajas que sólo la vida rural nos ofrece.</p>
+        <p>
+          Del 10 al 17 de abril de 2021, una semana dedicada a las familias y al
+          saber vivir con las ventajas que sólo la vida rural nos ofrece.
+        </p>
       </div>
     </section>
     <hr class="divider" />
@@ -105,8 +114,8 @@
     /* padding: 0 1rem; */
   }
 }
-@media (min-width: 992px){
-  .imagen{
+@media (min-width: 992px) {
+  .imagen {
     margin-top: 87px;
   }
 }

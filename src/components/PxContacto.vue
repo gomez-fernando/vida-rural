@@ -21,7 +21,8 @@
       <div>
         <p class="border-bottom border-top text-center">Masía Vida Plena</p>
         <p class="border-bottom border-top">
-          <img class="contact-icon" src="assets/img/location.png" alt />08262, Callús, Barcelona
+          <img class="contact-icon" src="assets/img/location.png" alt />08262,
+          Callús, Barcelona
         </p>
       </div>
       <div class="w-100 mb-4"></div>
@@ -34,7 +35,11 @@
       <div class="w-100 mb-4"></div>
       <div>
         <p class="border-bottom border-top">
-          <img class="contact-icon" src="assets/img/inbox.png" alt />info@vida-rural.com
+          <img
+            class="contact-icon"
+            src="assets/img/inbox.png"
+            alt
+          />info@vida-rural.com
         </p>
       </div>
     </section>

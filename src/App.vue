@@ -131,5 +131,4 @@ p {
   background-color: var(--primario);
   border-radius: 30px;
 }
-
 </style>

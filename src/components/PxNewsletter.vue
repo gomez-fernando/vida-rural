@@ -1,9 +1,9 @@
 <template>
   <div id="newsletter" class="container">
     <iframe
-      width="80%"
-      height="600"
-      src="https://555f26fd.sibforms.com/serve/MUIEAOJ-CSNgWgCip88MHZBmtF2EKCaIf4deOtI3qyLpM5JfabRV0I7qESZY0Sl_swyIVrLbWZgTUuu0QOTh1xeAqXshoWhdv38BSRwY7AYul0iij-iHjV5yph6O34FRn83bV9Cf-8roEI0xbW7AUq_ZM6tD4JLOMKkKp6WH7mqQn95JKWAZs-GdOaxvI-luCSCgoMtVI1ViBK4M"
+      width="540"
+      height="305"
+      src="https://555f26fd.sibforms.com/serve/MUIEAA7rnBNP4UIatmNGTLGkoDPB8lW9lA1uOAB7wXHQ0ojKKVND3D2P_08D_nU0on72K--bikImbreuzEDRx7YWVmgk9rCr2Udopng5qwUL89oWwfgLZHI_AxFBvV9nD_HoDqEEPYuH6vd2hLS_O5Ks76Gxj2Sz82hEbbOu4F-LONz_JlY5usB9Ak8bKoGhctWho19pS1NKcfNK"
       frameborder="0"
       scrolling="auto"
       allowfullscreen

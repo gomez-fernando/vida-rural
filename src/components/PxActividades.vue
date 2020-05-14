@@ -7,16 +7,24 @@
         <div class="card">
           <h3 class="titulo">Acampada</h3>
           <p>
-            Ir de acampada es una de esas cosas que nos remite a la niñez, a la emoción de libertad y de aventura. 
+            Ir de acampada es una de esas cosas que nos remite a la niñez, a la
+            emoción de libertad y de aventura.
           </p>
           <p>
-            Nos conecta con algo muy primitivo y nos permite escapar de nuestra cómoda realidad, convirtiendo la cosa más sencilla (hervir leche, por ejemplo) en toda una aventura. Pero además, ir de acampada tiene muchos beneficios para los más pequeños.
+            Nos conecta con algo muy primitivo y nos permite escapar de nuestra
+            cómoda realidad, convirtiendo la cosa más sencilla (hervir leche,
+            por ejemplo) en toda una aventura. Pero además, ir de acampada tiene
+            muchos beneficios para los más pequeños.
           </p>
           <p>
-            No hace falta comprar equipos especiales o material de acampada. Seguro que conoces a alguien que tiene una tienda o dos que puedas usar. 
+            No hace falta comprar equipos especiales o material de acampada.
+            Seguro que conoces a alguien que tiene una tienda o dos que puedas
+            usar.
           </p>
           <p>
-            Es increíble ver cómo los niños, en un contexto nuevo, se transforman en pequeños ayudantes, ávidos por salir corriendo para aportar en algo o quedarse a tu lado para echar una mano.
+            Es increíble ver cómo los niños, en un contexto nuevo, se
+            transforman en pequeños ayudantes, ávidos por salir corriendo para
+            aportar en algo o quedarse a tu lado para echar una mano.
           </p>
 
           <a
@@ -38,11 +46,14 @@
             encuentro. Este año vuelven Calle 13 para deleitarnos con su música.
           </p>
           <p>
-            Un concierto lleno de energía en un espacio natural incomparable. Hemos preparado un escenario totalmente nuevo en la masía para nuestros conciertos.
+            Un concierto lleno de energía en un espacio natural incomparable.
+            Hemos preparado un escenario totalmente nuevo en la masía para
+            nuestros conciertos.
           </p>
           <p>
             René Pérez ha colaborado en campañas sociales con UNICEF y Amnistía
-            Internacional y es defensor de la educación pública latinoamericana y los derechos de los pueblos indígenas. 
+            Internacional y es defensor de la educación pública latinoamericana
+            y los derechos de los pueblos indígenas.
           </p>
           <p>
             Fue censurado en Puerto Rico por insultar públicamente al gobernador
@@ -65,13 +76,23 @@
         <div class="card">
           <h3 class="titulo">Caminata</h3>
           <p>
-            Para muchos visitantes a Montserrat, su visita no estaría completa sin hacer una de las caminatas alrededor de la montaña de Montserrat. Es fácil planear un viaje a Montserrat y olvidar que visitarás mucho más que un monasterio: visitarás una montaña entera.
+            Para muchos visitantes a Montserrat, su visita no estaría completa
+            sin hacer una de las caminatas alrededor de la montaña de
+            Montserrat. Es fácil planear un viaje a Montserrat y olvidar que
+            visitarás mucho más que un monasterio: visitarás una montaña entera.
           </p>
           <p>
-            Esta página te proporcionará información sobre los principales paseos que puedes tomar desde el Monasterio de Montserrat a diferentes lugares en la montaña de Montserrat
+            Esta página te proporcionará información sobre los principales
+            paseos que puedes tomar desde el Monasterio de Montserrat a
+            diferentes lugares en la montaña de Montserrat
           </p>
           <p>
-            Habrá información sobre la duración de las caminatas, tiempo estimado de la caminata, consejos sobre cualquier parte de la caminata que pueda ser particularmente difícil y detalles sobre qué buscar durante tu viaje. También hay enlaces a páginas más detalladas tanto acerca de la montaña de Montserrat como en el parque natural de Montserrat.
+            Habrá información sobre la duración de las caminatas, tiempo
+            estimado de la caminata, consejos sobre cualquier parte de la
+            caminata que pueda ser particularmente difícil y detalles sobre qué
+            buscar durante tu viaje. También hay enlaces a páginas más
+            detalladas tanto acerca de la montaña de Montserrat como en el
+            parque natural de Montserrat.
           </p>
 
           <a
@@ -89,13 +110,19 @@
         <div class="card">
           <h3 class="titulo">Confecciona tu espantapájaros</h3>
           <p>
-            Esta actividad está pensada para toda la familia y especialmente para los más pequeños.
+            Esta actividad está pensada para toda la familia y especialmente
+            para los más pequeños.
           </p>
           <p>
-            Aunque para muchas personas que se dedican a la agricultura, tener un espantapájaros significa poder proteger sus cultivos, también podemos hacerlo como una manualidad o proyecto de bricolaje con el que distraer un poco a los niños.
+            Aunque para muchas personas que se dedican a la agricultura, tener
+            un espantapájaros significa poder proteger sus cultivos, también
+            podemos hacerlo como una manualidad o proyecto de bricolaje con el
+            que distraer un poco a los niños.
           </p>
           <p>
-            El espantapájaros, además de divertido y mítico, es una forma de ahuyentar a los pájaros que atacan nuestro huerto o jardín estropeándonos la cosecha o las hojas y flores de nuestras plantas.
+            El espantapájaros, además de divertido y mítico, es una forma de
+            ahuyentar a los pájaros que atacan nuestro huerto o jardín
+            estropeándonos la cosecha o las hojas y flores de nuestras plantas.
           </p>
 
           <a
@@ -113,10 +140,17 @@
         <div class="card">
           <h3 class="titulo">Media Maratón</h3>
           <p>
-            Conscientes de la importancia de desarrollar una cultura de deporte al aire libre, repetiremos la media maratón de Vida Rural que tanto éxito tuvo en su primera edición. <br> Respira le aire puro y da lo mejor de tí.
+            Conscientes de la importancia de desarrollar una cultura de deporte
+            al aire libre, repetiremos la media maratón de Vida Rural que tanto
+            éxito tuvo en su primera edición. <br />
+            Respira le aire puro y da lo mejor de tí.
           </p>
           <p>
-            La Maratón de montaña de Montserrat es una carrera con un desnivel acumulado de más de 5.000 metros. Los primeros cuatro kilómetros de carrera transcurren por el núcleo histórico de Collbató, para entrar en un tramo de carretera y escaleras. A partir de este momento nos adentramos por un sendero al Parque Natural de Montserrat.
+            La Maratón de montaña de Montserrat es una carrera con un desnivel
+            acumulado de más de 5.000 metros. Los primeros cuatro kilómetros de
+            carrera transcurren por el núcleo histórico de Collbató, para entrar
+            en un tramo de carretera y escaleras. A partir de este momento nos
+            adentramos por un sendero al Parque Natural de Montserrat.
           </p>
 
           <a
