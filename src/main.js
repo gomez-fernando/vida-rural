@@ -9,5 +9,6 @@ Vue.mixin(titleMixin);
 
 new Vue({
   router,
+  titleMixin,
   render: h => h(App)
 }).$mount("#app");
