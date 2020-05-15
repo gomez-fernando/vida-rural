@@ -13,6 +13,7 @@ import PxNewsletter from "@/components/PxNewsletter";
 
 export default {
   name: "Oradores",
+  title: "Oradores",
 
   components: {
     PxOradores,

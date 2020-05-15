@@ -15,6 +15,7 @@ import PxNewsletter from "@/components/PxNewsletter";
 
 export default {
   name: "Home",
+  title: "Vida Rural",
 
   components: {
     PxEvento,
