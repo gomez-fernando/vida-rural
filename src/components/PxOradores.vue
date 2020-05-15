@@ -91,7 +91,7 @@
             con la tierra, con el agua y con el viento, del cosmos ordenado por
             la tradición al caos y la densa oscuridad de los suburbios de París,
             la gran urbe alienante cuyo sistema adora al dios dinero, dejando de
-            lado la conecxión del ser humano con sus raíces.
+            lado la conexión del ser humano con sus raíces.
           </p>
 
           <a

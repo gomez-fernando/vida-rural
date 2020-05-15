@@ -17,9 +17,11 @@
       <div class="widget navegacion">
         <h3>Navegación</h3>
         <nav>
-          <router-link v-for="l in links" :key="l.title" :to="l.to" class>{{
+          <router-link v-for="l in links" :key="l.title" :to="l.to" class>
+            {{
             l.title
-          }}</router-link>
+            }}
+          </router-link>
           <a id="contact-button-2" class="router-link-active">Contacto</a>
         </nav>
       </div>
@@ -104,10 +106,7 @@
         </div>
         <div>
           <div class="foto">
-            <a
-              href="https://www.youtube.com/channel/UCXV8HmDQt2akopxAQQt3oeg"
-              target="_blank"
-            >
+            <a href="https://www.youtube.com/channel/UCXV8HmDQt2akopxAQQt3oeg" target="_blank">
               <img src="assets/img/patrocinador4.jpg" alt="patrocinador" />
             </a>
           </div>
@@ -115,10 +114,7 @@
         </div>
         <div>
           <div class="foto">
-            <a
-              href="https://www.youtube.com/results?search_query=metabolismo+tv"
-              target="_blank"
-            >
+            <a href="https://www.youtube.com/results?search_query=metabolismo+tv" target="_blank">
               <img src="assets/img/patrocinador5.jpg" alt="patrocinador" />
             </a>
           </div>
@@ -126,14 +122,14 @@
         </div>
       </div>
     </div>
-    <p class="copyright">
+    <!-- <p class="copyright">
       <a
         href="https://gomez-fernando.github.io/portfolio/"
         target="_blank"
         rel="noopener noreferrer"
         >Developed with &#x1F49A; by Fernando Gómez &copy; 2020</a
       >
-    </p>
+    </p>-->
   </footer>
 </template>
 
