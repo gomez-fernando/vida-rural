@@ -13,6 +13,7 @@ import PxNewsletter from "@/components/PxNewsletter";
 
 export default {
   name: "Actividades",
+  title: "Actividades",
 
   components: {
     PxActividades,
