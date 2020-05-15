@@ -122,14 +122,13 @@
         </div>
       </div>
     </div>
-    <!-- <p class="copyright">
+    <p class="copyright">
       <a
         href="https://gomez-fernando.github.io/portfolio/"
         target="_blank"
         rel="noopener noreferrer"
-        >Developed with &#x1F49A; by Fernando Gómez &copy; 2020</a
-      >
-    </p>-->
+      >Developed with &#x1F49A; by Fernando Gómez &copy; 2020</a>
+    </p>
   </footer>
 </template>
 
