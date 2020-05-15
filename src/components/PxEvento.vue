@@ -2,7 +2,6 @@
   <div>
     <section class="nosotros contenedor">
       <div class="imagen">
-        <!-- <img src="assets/img/girasol.jpg" alt="conferencia 2019" class="imagen"> -->
         <div
           id="carousel"
           class="carousel slide"
@@ -12,25 +11,13 @@
         >
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img
-                class="d-block w-100"
-                src="assets/img/girasol.jpg"
-                alt="foto del evento"
-              />
+              <img class="d-block w-100" src="assets/img/girasol.jpg" alt="foto del evento" />
             </div>
             <div class="carousel-item">
-              <img
-                class="d-block w-100"
-                src="assets/img/espantapajaros.jpg"
-                alt="foto del evento"
-              />
+              <img class="d-block w-100" src="assets/img/espantapajaros.jpg" alt="foto del evento" />
             </div>
             <div class="carousel-item">
-              <img
-                class="d-block w-100"
-                src="assets/img/walking.jpg"
-                alt="foto del evento"
-              />
+              <img class="d-block w-100" src="assets/img/walking.jpg" alt="foto del evento" />
             </div>
           </div>
         </div>

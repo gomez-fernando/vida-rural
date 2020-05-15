@@ -21,25 +21,21 @@
       <div>
         <p class="border-bottom border-top text-center">Masía Vida Plena</p>
         <p class="border-bottom border-top">
-          <img class="contact-icon" src="assets/img/location.png" alt />08262,
+          <img class="contact-icon" src="assets/img/location.png" alt="Localización del evento" />08262,
           Callús, Barcelona
         </p>
       </div>
       <div class="w-100 mb-4"></div>
       <div>
         <p class="border-bottom border-top">
-          <img class="contact-icon" src="assets/img/phone.png" alt />+34 653 891
+          <img class="contact-icon" src="assets/img/phone.png" alt="Teléfono de contacto" />+34 653 891
           672
         </p>
       </div>
       <div class="w-100 mb-4"></div>
       <div>
         <p class="border-bottom border-top">
-          <img
-            class="contact-icon"
-            src="assets/img/inbox.png"
-            alt
-          />info@vida-rural.com
+          <img class="contact-icon" src="assets/img/inbox.png" alt="Email de contacto" />info@vida-rural.com
         </p>
       </div>
     </section>
